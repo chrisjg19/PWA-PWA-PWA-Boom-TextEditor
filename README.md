@@ -3,7 +3,7 @@
 ## Description
 Here you have a very nice a simple text editor that with the use of a PWA bundler we are able to run this code not only from our brower
 thanks to heroku but also use it offline as long as you choose to install it. 
-![WebExample](./client/src/images/example.png)
+![WebExampleScreenshot](./client/src/images/example.png)
 
 ## Deployment
 Here is the [link](https://pwa-boom-pow-texteditor.herokuapp.com/) to the deployed application through Heroku
